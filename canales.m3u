@@ -16,3 +16,13 @@ http://89.105.194.59:25461/live/1docT9n!$/1docT9n!$/79.m3u8
 
 #EXTINF:0,http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/17.m3u8
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/17.m3u8
+
+
+#EXTINF:0 tvg-name=\"VEVO 2\" , VEVO 2
+http://ift.tt/1KEPVS5.http://ift.tt/1BxuFW606/prog_index.m3u8
+#EXTINF:0 tvg-name=\"A One\" , A One
+http://ift.tt/1KEPTcGstreaming/aone/126/tvrec/playlist.m3u8
+#EXTINF:0 tvg-name=\"HardLife TV\" , HardLife TV
+http://ift.tt/1KEPTcGstreaming/hardlife_tv/126/tvrec/playlist.m3u8
+#EXTINF:0 tvg-name=\"AKA\" , AKA
+http://ift.tt/1BxuGJm?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
